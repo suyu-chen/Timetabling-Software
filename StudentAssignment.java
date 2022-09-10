@@ -13,7 +13,7 @@ import java.util.Arrays;
 /**
  * [StudentAssignment.java]
  * Class for filling students into the master timetable
- * @author Alex, Samson, Suyu
+ * @author Alex, Samson, Suyu 
  * @version 1.0
  */
 public class StudentAssignment {

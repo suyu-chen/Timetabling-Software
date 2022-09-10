@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.Random;
-
+ 
 /**
  * Class for generating an initial master timetable allocating all courses running into timeslots and rooms
  * 

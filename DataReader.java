@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.File;
 import java.util.HashMap;
-import java.util.ArrayList;
+import java.util.ArrayList; 
 /**
  * [DataReader.java]
  * reads the data from all the files

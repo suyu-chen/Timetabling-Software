@@ -1,6 +1,6 @@
 /**
  * [Room.java]
- * Stores information pertaining to a
+ * Stores information pertaining to a room
  */
 public class Room {
 

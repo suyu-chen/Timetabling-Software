@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.io.PrintWriter;
 import java.io.File;
-import java.io.FileNotFoundException;
+import java.io.FileNotFoundException; 
 
 /**
  * Modifies the master timetable

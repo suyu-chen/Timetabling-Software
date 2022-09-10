@@ -2,7 +2,7 @@ import java.util.ArrayList;
 
 /**
  * [Student.java]
- * Contains data representing a student
+ * Contains data representing a student 
  * @version 1.0
  */
 public class Student {

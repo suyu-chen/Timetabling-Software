@@ -1,4 +1,4 @@
-Course Code,Course Title,Grade,Type,Credits,Prequisites,Corequisites,Special,Caps (Per Class
+Course Code,Course Title,Grade,Type,Credits,Prequisites,Corequisites,Special,Caps (Per Class 
 ADA1O1,Dramatic Arts,9,Open,1,[],[],[],28
 ADA2O1,Dramatic Arts,10,Open,1,[],[],[],28
 ADA3M1,Dramatic Arts,11,University/College,1,"[ADA1O1, ADA2O1]",[],[],28

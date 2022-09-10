@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 /**
  * Courses that have special exceptions
- * @author Alex, Samson
+ * @author Alex, Samson 
  * @version 1.0
  */
 public class SpecialCourseScheduler { 

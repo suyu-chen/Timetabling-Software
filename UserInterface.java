@@ -25,7 +25,7 @@ import javax.swing.event.RowSorterEvent;
 import java.awt.Cursor;
 /**
  * [UserInterface.java]
- * Displays the user interface for the timetabling software 
+ * Displays the user interface for the timetabling software
  * @author Alex
  */
 public class UserInterface {
